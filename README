@@ -1,0 +1,11 @@
+
+     This is a basic analog test rig for J112/3 JFETs, used to determine
+     V_GS(off) and I_DSS for specific samples. The design can easily be
+     modified to test other N-type depletion-mode families by changing 
+     the meters, power rails, etc. to account for their characteristics. 
+
+     As always, this design is free for you to use as you see fit, but
+     you do so at your own risk: I provide no warranties of any kind.
+
+                                       --- Charles E. Youse (@jaussamps)
+
