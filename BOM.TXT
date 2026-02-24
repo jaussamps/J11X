@@ -1,0 +1,46 @@
+BILL OF MATERIALS ----------------  J11X  ------------------------ REV A 02/26
+
+C1-C4           220uF 16V 20% ELEC      VALUEPRO ECA-1CM221-JVP
+                (6.3 x 11 x 2.5mm)      [JC:198872]
+
+F1              FUSE 30mA 250V PTC      YAGEO BK250-030-DZ
+                                        [DK:13-BK250-030-DZ-ND]
+
+D1,D2           1N4007                  [JC:36011]
+
+D3              LED 30mA 2.1V           LITEON LTL-4233
+                                        [DK:160-1130-ND JC:697653]
+
+J1*             120VAC MAINS
+
+P1*             1K OHM LINEAR 500mW     ALPHA RV24AF-10-15R1-B1K-3-100
+                                        [JC:255485]
+
+Q1              3-PIN 0.1-INCH SOCKET   OMRON XR2C-0311-N
+                                        [DK:Z8777-ND]
+
+R1              470 OHM 5% 1W           TECONN ROX1SJ470R
+                                        [DK:A106019CT-ND]
+
+SW1*            SPST SWITCH 120VAC
+
+T1              115VAC/6VAC 0.35VA      ZETTLER BV201S06003A
+                POWER TRANSFORMER       [DK:3388-BV201S06003A-ND]
+
+------------------------------------------------------------------------------
+
+[QTY 1]         PCB MOUNTING KIT        [JC:106551]
+
+[QTY 1]         METAL ENCLOSURE         [JC:208911]
+
+        Items above marked (*) are chassis-mounted. Footprints
+        on the PCB are [combinations of] these terminal blocks:
+
+[QTY 3]         2-PIN TERMINAL BLOCK    ONSHORE OSTTC022162
+                                        [DK:ED2609-ND]
+
+[QTY 2]         3-PIN TERMINAL BLOCK    ONSHORE OSTTC032162
+                                        [DK:ED2610-ND]
+
+---------------------------------------------------------- vi: ts=4 expandtab:
+

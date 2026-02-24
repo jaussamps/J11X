@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "hfx-symbols")(type "KiCad")(uri "/home/charles/HFX/library/hfx-symbols.kicad_sym")(options "")(descr ""))
+)
